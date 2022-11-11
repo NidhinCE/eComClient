@@ -1,0 +1,1 @@
+Create components such as login, 404, presentational page, about us., forgot password which is common for non registered user

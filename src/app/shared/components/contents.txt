@@ -1,0 +1,1 @@
+Componenent that can be shared between private, public and code modules

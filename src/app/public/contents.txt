@@ -1,0 +1,4 @@
+//Holds all the public files, ie everything that has to be accessed for a non registered users
+//such as login, 404, presentational page, about us. 
+
+//This component will hold the router outlet and will handle the routes for private modul

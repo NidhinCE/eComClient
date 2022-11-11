@@ -1,0 +1,21 @@
+.container{
+    padding-top: 2%;
+}
+mat-form-field{
+    width:40%;
+    padding-right: 2%;
+}
+.submit{
+    margin-left:8px;
+}
+
+input{
+    width: calc(100%2 - 20px);
+}
+.checkboxx{
+    display:flex;
+}
+.margin{
+    margin-left:2%;
+}
+
